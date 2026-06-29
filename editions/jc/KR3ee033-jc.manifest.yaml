@@ -1,0 +1,3614 @@
+canonical_identifier: bkk:krp/KR3ee033/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ee033/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 資生集
+  identifiers:
+    krp: KR3ee033
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee033.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ee033_001-jc.yaml, hash: 'sha256:35cc9d3750fbad1d3b3ec02560a1f91f2f289ac858fc0a942e8a5574d1f87686'}
+  - {seq: 2, filename: KR3ee033_002-jc.yaml, hash: 'sha256:81ec090f1538593d304c0a23d168ffffea8c534e200f241990c0d079211bfa8e'}
+  - {seq: 3, filename: KR3ee033_003-jc.yaml, hash: 'sha256:f83872fe2875782221879e13ec61bf95c6de06bed9637a0fd8454f2d8ffe8ef2'}
+  - {seq: 4, filename: KR3ee033_004-jc.yaml, hash: 'sha256:3d01813b31a5d36e8871923b9d8bee753e3821f5bf19f086a8b9526ae69014fc'}
+  - {seq: 5, filename: KR3ee033_005-jc.yaml, hash: 'sha256:8fe71432f5722ed2aed8ab3f76703b1c1b3f8e7bba1b5497ac57184cec8518d4'}
+  - {seq: 6, filename: KR3ee033_006-jc.yaml, hash: 'sha256:5fb7deb7a49345fa874f2c94d7b7133e1b49e2695bf9d2bbc507271a0fe28c2a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ee033_001-jc.markers.yaml, hash: 'sha256:7570bf9e5b747146c6a887297ad1e313a162243f220700e2b8964ad2090acd44'}
+  - {seq: 2, role: markers, filename: assets/KR3ee033_002-jc.markers.yaml, hash: 'sha256:f183c1f52a85f0870474bf520ace53969103aa61d490a21141c8f6f1433acd31'}
+  - {seq: 3, role: markers, filename: assets/KR3ee033_003-jc.markers.yaml, hash: 'sha256:8a08140d3a23cc6c16ea5fb4805b3d21907c8227dc0563557900bd314ca1d38b'}
+  - {seq: 4, role: markers, filename: assets/KR3ee033_004-jc.markers.yaml, hash: 'sha256:3ed8021a7683ca84234efb73eeab23d552ca592a80f64f2bf7db315ab7e2f40c'}
+  - {seq: 5, role: markers, filename: assets/KR3ee033_005-jc.markers.yaml, hash: 'sha256:6136a31df2dc94b04303613cdae0ccd0aa4f54ae4cf78410f3a9b40ae3d78c61'}
+  - {seq: 6, role: markers, filename: assets/KR3ee033_006-jc.markers.yaml, hash: 'sha256:098ce9c1d22f28e6489848e0b98b8f9a0e17b5e09cfaf292c67b87101e7eccfb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 14523
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 8800
+  label: 調經門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d2d2
+    span:
+    - body
+    - 5
+    - 4918
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d2d3
+    span:
+    - body
+    - 4918
+    - 8800
+  label: 調經類方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2d3
+    span:
+    - body
+    - 8800
+    - 14523
+  label: 經閉當與調經門參看
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d3d66
+    span:
+    - body
+    - 11909
+    - 12240
+  label: 經病血厥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d3d67
+    span:
+    - body
+    - 12240
+    - 13058
+  label: 治血枯經閉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d3d68
+    span:
+    - body
+    - 13058
+    - 14279
+  label: 治血澀經閉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee033_jc_001-d2.d3d69
+    span:
+    - body
+    - 14279
+    - 14523
+  label: 治痰結經閉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 22238
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 1546
+  label: 血崩
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3d3
+    span:
+    - body
+    - 1546
+    - 7070
+  label: 血崩集方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d4
+    span:
+    - body
+    - 1571
+    - 2294
+  label: 治血熱崩漏
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d5
+    span:
+    - body
+    - 2294
+    - 2815
+  label: 治勞傷崩漏
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d6
+    span:
+    - body
+    - 2815
+    - 4240
+  label: 治崩漏氣陷
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d7
+    span:
+    - body
+    - 4240
+    - 4394
+  label: 治崩漏血瘀昏暈疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d8
+    span:
+    - body
+    - 4394
+    - 5124
+  label: 治崩漏虛寒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d3d9
+    span:
+    - body
+    - 5124
+    - 7070
+  label: 治崩漏虛脫
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3d4
+    span:
+    - body
+    - 7070
+    - 10664
+  label: 帶下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d4d54
+    span:
+    - body
+    - 10292
+    - 10350
+  label: 針灸穴
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d4d55
+    span:
+    - body
+    - 10350
+    - 10404
+  label: 脈法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d4d56
+    span:
+    - body
+    - 10404
+    - 10664
+  label: 白濁白淫
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3d5
+    span:
+    - body
+    - 10664
+    - 16586
+  label: 帶下集方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d2
+    span:
+    - body
+    - 10668
+    - 11261
+  label: 濕熱帶下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d3
+    span:
+    - body
+    - 11261
+    - 11683
+  label: 治濕痰帶下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d4
+    span:
+    - body
+    - 11683
+    - 12000
+  label: 治風邪帶下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d5
+    span:
+    - body
+    - 12000
+    - 13588
+  label: 治虛損帶下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d6
+    span:
+    - body
+    - 13588
+    - 14708
+  label: 治虛寒帶下
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d7
+    span:
+    - body
+    - 14708
+    - 15213
+  label: 外治法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d8
+    span:
+    - body
+    - 15213
+    - 15886
+  label: 治帶下滑脫
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d5d9
+    span:
+    - body
+    - 15886
+    - 16586
+  label: 治白淫白濁
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3d6
+    span:
+    - body
+    - 16586
+    - 22238
+  label: 諸積
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d2
+    span:
+    - body
+    - 16588
+    - 19491
+  label: 痃癖疝瘕癥痞積聚腸覃石瘕詩
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d3
+    span:
+    - body
+    - 19491
+    - 20085
+  label: 通治諸積
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d4
+    span:
+    - body
+    - 20085
+    - 20191
+  label: 治癥瘕
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d5
+    span:
+    - body
+    - 20191
+    - 20526
+  label: 治食症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d6
+    span:
+    - body
+    - 20526
+    - 20718
+  label: 治瘀血
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d7
+    span:
+    - body
+    - 20718
+    - 21724
+  label: 治痃癖
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee033_jc_002-d3.d6d8
+    span:
+    - body
+    - 21724
+    - 22238
+  label: 治疝瘕
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13385
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 13385
+  label: 胎前門上
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d2
+    span:
+    - body
+    - 6
+    - 1272
+  label: 惡阻
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d3
+    span:
+    - body
+    - 1272
+    - 1910
+  label: 子煩液燥血渴
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d4
+    span:
+    - body
+    - 1910
+    - 2667
+  label: 子懸脈浮滑者痰尺伏而絕者心氣悶絕
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d5
+    span:
+    - body
+    - 2667
+    - 3451
+  label: 子滿即子腫胎水同
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d6
+    span:
+    - body
+    - 3451
+    - 3840
+  label: 子氣
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d7
+    span:
+    - body
+    - 3840
+    - 4370
+  label: 腹痛胎痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d8
+    span:
+    - body
+    - 4370
+    - 4511
+  label: 心痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d9
+    span:
+    - body
+    - 4511
+    - 4811
+  label: 腰痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d10
+    span:
+    - body
+    - 4811
+    - 4891
+  label: 小腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d11
+    span:
+    - body
+    - 4891
+    - 5880
+  label: 妊娠下血
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d12
+    span:
+    - body
+    - 5880
+    - 6191
+  label: 尿血
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d13
+    span:
+    - body
+    - 6191
+    - 6430
+  label: 大小便不通
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d14
+    span:
+    - body
+    - 6430
+    - 8036
+  label: 小便不通
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2d15
+    span:
+    - body
+    - 8036
+    - 13385
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d2
+    span:
+    - body
+    - 8038
+    - 8978
+  label: 惡阻
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d3
+    span:
+    - body
+    - 8978
+    - 9509
+  label: 子煩
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d4
+    span:
+    - body
+    - 9509
+    - 9866
+  label: 子懸
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d5
+    span:
+    - body
+    - 9866
+    - 10460
+  label: 子腫子氣
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d6
+    span:
+    - body
+    - 10460
+    - 11230
+  label: 心腹痛子痛
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d7
+    span:
+    - body
+    - 11230
+    - 11331
+  label: 心痛方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d8
+    span:
+    - body
+    - 11331
+    - 11768
+  label: 腰痛方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d9
+    span:
+    - body
+    - 11768
+    - 12263
+  label: 妊娠下血方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d10
+    span:
+    - body
+    - 12263
+    - 12417
+  label: 尿血方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d11
+    span:
+    - body
+    - 12417
+    - 12636
+  label: 大小便不通方
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ee033_jc_003-d4.d2.d15d12
+    span:
+    - body
+    - 12636
+    - 13385
+  label: 小便不通方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 16209
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 16209
+  label: 胎前門下
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d2
+    span:
+    - body
+    - 6
+    - 559
+  label: 子喑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d3
+    span:
+    - body
+    - 559
+    - 1321
+  label: 中風
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d4
+    span:
+    - body
+    - 1321
+    - 1551
+  label: 傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d5
+    span:
+    - body
+    - 1551
+    - 2052
+  label: 瘧疾
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d6
+    span:
+    - body
+    - 2052
+    - 3389
+  label: 痢疾
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d7
+    span:
+    - body
+    - 3389
+    - 3777
+  label: 霍亂
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d8
+    span:
+    - body
+    - 3777
+    - 4164
+  label: 泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d9
+    span:
+    - body
+    - 4164
+    - 4252
+  label: 中惡俗名絞腸痧即此
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d10
+    span:
+    - body
+    - 4252
+    - 4612
+  label: 傷食
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d11
+    span:
+    - body
+    - 4612
+    - 4915
+  label: 咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d12
+    span:
+    - body
+    - 4915
+    - 5228
+  label: 喘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d13
+    span:
+    - body
+    - 5228
+    - 5492
+  label: 吐血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d14
+    span:
+    - body
+    - 5492
+    - 5754
+  label: 臟躁悲傷
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d15
+    span:
+    - body
+    - 5754
+    - 5906
+  label: 腹內鐘鳴
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d16
+    span:
+    - body
+    - 5906
+    - 6069
+  label: 胎動不安
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d17
+    span:
+    - body
+    - 6069
+    - 6718
+  label: 傷胎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d18
+    span:
+    - body
+    - 6718
+    - 7678
+  label: 墮胎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d19
+    span:
+    - body
+    - 7678
+    - 8487
+  label: 半產
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d20
+    span:
+    - body
+    - 8487
+    - 8808
+  label: 胎不長
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d21
+    span:
+    - body
+    - 8808
+    - 9083
+  label: 鬼胎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d22
+    span:
+    - body
+    - 9083
+    - 9133
+  label: 孤漿預下
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d23
+    span:
+    - body
+    - 9133
+    - 9148
+  label: 補胎疸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d24
+    span:
+    - body
+    - 9148
+    - 9186
+  label: 兩胎一死一生
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2d25
+    span:
+    - body
+    - 9186
+    - 16209
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d2
+    span:
+    - body
+    - 9188
+    - 9235
+  label: 子喑方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d3
+    span:
+    - body
+    - 9235
+    - 9585
+  label: 中風方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d4
+    span:
+    - body
+    - 9585
+    - 9761
+  label: 風痙方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d5
+    span:
+    - body
+    - 9761
+    - 10972
+  label: 傷寒方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d6
+    span:
+    - body
+    - 10972
+    - 11229
+  label: 瘧疾方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d7
+    span:
+    - body
+    - 11229
+    - 11582
+  label: 痢疾方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d8
+    span:
+    - body
+    - 11582
+    - 11904
+  label: 霍亂方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d9
+    span:
+    - body
+    - 11904
+    - 12227
+  label: 泄瀉方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d10
+    span:
+    - body
+    - 12227
+    - 12340
+  label: 中惡方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d11
+    span:
+    - body
+    - 12340
+    - 12588
+  label: 傷食方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d12
+    span:
+    - body
+    - 12588
+    - 12709
+  label: 咳嗽方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d13
+    span:
+    - body
+    - 12709
+    - 12783
+  label: 喘急方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d14
+    span:
+    - body
+    - 12783
+    - 12971
+  label: 血證方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d15
+    span:
+    - body
+    - 12971
+    - 13119
+  label: 臟躁方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d16
+    span:
+    - body
+    - 13119
+    - 13149
+  label: 腹內鐘鳴方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d17
+    span:
+    - body
+    - 13149
+    - 13950
+  label: 胎動傷胎方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d18
+    span:
+    - body
+    - 13950
+    - 15409
+  label: 墮胎半產方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d19
+    span:
+    - body
+    - 15409
+    - 15938
+  label: 胎不長方
+  type: section
+  level: 4
+- ref:
+    seq: 4
+    marker_id: KR3ee033_jc_004-d5.d2.d25d20
+    span:
+    - body
+    - 15938
+    - 16209
+  label: 鬼胎方
+  type: section
+  level: 4
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 15960
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 2584
+  label: 臨產門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d2
+    span:
+    - body
+    - 5
+    - 85
+  label: 臨產將息之法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d3
+    span:
+    - body
+    - 85
+    - 311
+  label: 臨產調和用藥之法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d4
+    span:
+    - body
+    - 311
+    - 444
+  label: 臨產預備必用之藥
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d5
+    span:
+    - body
+    - 444
+    - 624
+  label: 臨產腹痛宜辨弄胎試胎二候
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d6
+    span:
+    - body
+    - 624
+    - 687
+  label: 難產由於安逸氣滯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d7
+    span:
+    - body
+    - 687
+    - 761
+  label: 難產由於恐懼氣結
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d8
+    span:
+    - body
+    - 761
+    - 818
+  label: 難產由於胞中敗血壅滯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d9
+    span:
+    - body
+    - 818
+    - 875
+  label: 難產由於胞破血乾
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d10
+    span:
+    - body
+    - 875
+    - 1128
+  label: 難產由於妊孕房事不謹
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d11
+    span:
+    - body
+    - 1128
+    - 1203
+  label: 治難產胞漿干令通上下之氣
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d12
+    span:
+    - body
+    - 1203
+    - 1321
+  label: 治難產以順氣和血為主
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d13
+    span:
+    - body
+    - 1321
+    - 1496
+  label: 治產難子死腹中有下法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d14
+    span:
+    - body
+    - 1496
+    - 1721
+  label: 交骨不開產門不閉子宮不收三證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d15
+    span:
+    - body
+    - 1721
+    - 1938
+  label: 盤腸生
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d16
+    span:
+    - body
+    - 1938
+    - 2024
+  label: 寒月凍產宜暖
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d17
+    span:
+    - body
+    - 2024
+    - 2230
+  label: 夏月熱產宜涼
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d18
+    span:
+    - body
+    - 2230
+    - 2282
+  label: 催生藥宜助氣血為主
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d19
+    span:
+    - body
+    - 2282
+    - 2447
+  label: 催生大法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d2d20
+    span:
+    - body
+    - 2447
+    - 2584
+  label: 催生用藥諸方
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d3
+    span:
+    - body
+    - 2584
+    - 4064
+  label: 產後脈
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d6
+    span:
+    - body
+    - 2656
+    - 2701
+  label: 產後之脈貴虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d7
+    span:
+    - body
+    - 2701
+    - 2958
+  label: 產後辨生死之法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d8
+    span:
+    - body
+    - 2958
+    - 3271
+  label: 新產下有調理之法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d9
+    span:
+    - body
+    - 3271
+    - 3341
+  label: 新產婦有三病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d10
+    span:
+    - body
+    - 3341
+    - 3441
+  label: 產後十二癥病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d11
+    span:
+    - body
+    - 3441
+    - 3572
+  label: 產後十八證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d12
+    span:
+    - body
+    - 3572
+    - 3787
+  label: 產後危證有三沖三急
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d3d13
+    span:
+    - body
+    - 3787
+    - 4064
+  label: 產後諸證其源有三
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d4
+    span:
+    - body
+    - 4064
+    - 9093
+  label: 產戒
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d2
+    span:
+    - body
+    - 4066
+    - 4117
+  label: 產後戒食湯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d3
+    span:
+    - body
+    - 4117
+    - 4180
+  label: 產後戒飲酒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d4
+    span:
+    - body
+    - 4180
+    - 4305
+  label: 產後戒服童便
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d5
+    span:
+    - body
+    - 4305
+    - 4422
+  label: 產後戒食雞子夥鹽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d6
+    span:
+    - body
+    - 4422
+    - 4530
+  label: 產後戒早行房
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d7
+    span:
+    - body
+    - 4530
+    - 4574
+  label: 產後戒用發表一切不可用風藥
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d8
+    span:
+    - body
+    - 4574
+    - 4940
+  label: 產後戒服黑神散熱藥論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d9
+    span:
+    - body
+    - 4940
+    - 5366
+  label: 產後戒服黑神散致病論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d10
+    span:
+    - body
+    - 5366
+    - 5499
+  label: 產後戒服五積散論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d11
+    span:
+    - body
+    - 5499
+    - 5703
+  label: 產後用白芍藥宜制妙論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d12
+    span:
+    - body
+    - 5703
+    - 5866
+  label: 產後宜用芍藥論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d13
+    span:
+    - body
+    - 5866
+    - 5970
+  label: 產後戒不可遽用參耆
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d14
+    span:
+    - body
+    - 5970
+    - 6113
+  label: 產後先消瘀血為第一義
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d15
+    span:
+    - body
+    - 6113
+    - 6266
+  label: 產後不可作諸虛不足治
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d16
+    span:
+    - body
+    - 6266
+    - 6344
+  label: 產後以大補氣血為主
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d17
+    span:
+    - body
+    - 6344
+    - 6416
+  label: 產後先補氣血兼用消散
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d18
+    span:
+    - body
+    - 6416
+    - 6566
+  label: 產後去邪必兼補劑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d19
+    span:
+    - body
+    - 6566
+    - 6755
+  label: 辨丹溪主末二字即標本論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d20
+    span:
+    - body
+    - 6755
+    - 7186
+  label: 產後攻補二法辨疑論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d21
+    span:
+    - body
+    - 7186
+    - 7418
+  label: 產後誤藥成病論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d22
+    span:
+    - body
+    - 7418
+    - 8003
+  label: 產後諸證不可誤治論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d23
+    span:
+    - body
+    - 8003
+    - 8069
+  label: 產後證先調脾胃
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d24
+    span:
+    - body
+    - 8069
+    - 8520
+  label: 產後服生化湯論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d25
+    span:
+    - body
+    - 8520
+    - 8631
+  label: 產後胞衣不下屬冷乘血澀
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d26
+    span:
+    - body
+    - 8631
+    - 8712
+  label: 產後胞衣不下屬血入胞中
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d27
+    span:
+    - body
+    - 8712
+    - 8807
+  label: 產後胞衣不下有虛實之分
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d4d28
+    span:
+    - body
+    - 8807
+    - 9093
+  label: 產後胞衣不下急斷臍帶法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d5
+    span:
+    - body
+    - 9093
+    - 10068
+  label: 血暈
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d2
+    span:
+    - body
+    - 9095
+    - 9170
+  label: 產後血暈屬敗血流入肝血熱逆上
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d3
+    span:
+    - body
+    - 9170
+    - 9248
+  label: 產後血暈屬瘀血奔心虛火炎上
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d4
+    span:
+    - body
+    - 9248
+    - 9357
+  label: 產後血暈屬惡露乘虛上攻
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d5
+    span:
+    - body
+    - 9357
+    - 9486
+  label: 產後血暈屬陰血暴亡心虛火炎
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d6
+    span:
+    - body
+    - 9486
+    - 9545
+  label: 產後血暈屬血隨氣上
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d7
+    span:
+    - body
+    - 9545
+    - 9661
+  label: 產後血暈屬虛火載血上升腹中空虛所致
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d8
+    span:
+    - body
+    - 9661
+    - 9823
+  label: 產後血暈分下血多少治法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d5d9
+    span:
+    - body
+    - 9823
+    - 10068
+  label: 產後血暈用醋漆法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d6
+    span:
+    - body
+    - 10068
+    - 10801
+  label: 惡露
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d6d2
+    span:
+    - body
+    - 10070
+    - 10348
+  label: 產後惡露不下屬風冷乘虛搏血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d6d3
+    span:
+    - body
+    - 10348
+    - 10414
+  label: 產後惡露不絕屬虛損臟腑挾冷
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d6d4
+    span:
+    - body
+    - 10414
+    - 10497
+  label: 產後惡露不止屬血滯不化
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d6d5
+    span:
+    - body
+    - 10497
+    - 10801
+  label: 產後惡露不絕屬肝脾經病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d7
+    span:
+    - body
+    - 10801
+    - 14568
+  label: 頭痛附心腹腰脅遍身痛
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d2
+    span:
+    - body
+    - 10811
+    - 10924
+  label: 產後頭痛屬陽實陰虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d3
+    span:
+    - body
+    - 10924
+    - 11114
+  label: 產後頭痛屬風寒用生化湯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d4
+    span:
+    - body
+    - 11114
+    - 11188
+  label: 產後心痛屬虛寒血凝不散
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d5
+    span:
+    - body
+    - 11188
+    - 11244
+  label: 產後心痛屬陰虧火沖包絡
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d6
+    span:
+    - body
+    - 11244
+    - 11316
+  label: 產後心痛屬寒氣上攻
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d7
+    span:
+    - body
+    - 11316
+    - 11559
+  label: 產後心痛屬血虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d8
+    span:
+    - body
+    - 11559
+    - 11606
+  label: 產後腹痛屬腹有乾血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d9
+    span:
+    - body
+    - 11606
+    - 11659
+  label: 產後腹痛屬余血壅滯
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d10
+    span:
+    - body
+    - 11659
+    - 11731
+  label: 產後腹痛屬傷食裹血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d11
+    span:
+    - body
+    - 11731
+    - 11818
+  label: 產後腹痛屬氣弱阻寒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d12
+    span:
+    - body
+    - 11818
+    - 11998
+  label: 產後腹痛屬冷氣乘虛入產門
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d13
+    span:
+    - body
+    - 11998
+    - 12189
+  label: 產後腹痛分證用藥法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d14
+    span:
+    - body
+    - 12189
+    - 12340
+  label: 產後血塊腹脹戒用峻厲藥
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d15
+    span:
+    - body
+    - 12340
+    - 12383
+  label: 產後小腹痛屬惡露凝結
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d16
+    span:
+    - body
+    - 12383
+    - 12487
+  label: 產後小腹痛屬血滯名兒枕痛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d17
+    span:
+    - body
+    - 12487
+    - 12625
+  label: 產後小腹痛屬瘀血停滯有骨疸證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d18
+    span:
+    - body
+    - 12625
+    - 12760
+  label: 產後臍下痛作惡露不盡論
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d19
+    span:
+    - body
+    - 12760
+    - 12867
+  label: 產後腰痛屬血滯經絡
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d20
+    span:
+    - body
+    - 12867
+    - 12955
+  label: 產後腰痛屬勞傷腎氣風冷乘虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d21
+    span:
+    - body
+    - 12955
+    - 13064
+  label: 產後腰痛屬真氣虛
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d22
+    span:
+    - body
+    - 13064
+    - 13126
+  label: 產後脅痛屬氣與水相激
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d23
+    span:
+    - body
+    - 13126
+    - 13292
+  label: 產後脅痛分證用藥之法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d24
+    span:
+    - body
+    - 13292
+    - 13632
+  label: 產後遍身疼痛屬血氣失其常度
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d25
+    span:
+    - body
+    - 13632
+    - 13743
+  label: 產後血塊築痛屬風冷凝血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d26
+    span:
+    - body
+    - 13743
+    - 13831
+  label: 產後積聚屬氣血為風冷所搏
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d27
+    span:
+    - body
+    - 13831
+    - 13901
+  label: 產後瘕痛屬風冷搏血
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d28
+    span:
+    - body
+    - 13901
+    - 13952
+  label: 產後寒氣入腹名寒疝
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d29
+    span:
+    - body
+    - 13952
+    - 14069
+  label: 產後有血損筋攣之證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d30
+    span:
+    - body
+    - 14069
+    - 14235
+  label: 產後氣血壅結宜固元氣
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d31
+    span:
+    - body
+    - 14235
+    - 14369
+  label: 產後口乾痞悶屬面毒聚胃
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d7d32
+    span:
+    - body
+    - 14369
+    - 14568
+  label: 產後傷食停滯分證用藥法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6d8
+    span:
+    - body
+    - 14568
+    - 15960
+  label: 腹脹嘔吐呃逆喘
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d2
+    span:
+    - body
+    - 14575
+    - 14673
+  label: 產後腹脹嘔吐屬敗血入脾胃
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d3
+    span:
+    - body
+    - 14673
+    - 14802
+  label: 產後腹脹嘔吐屬飲食傷脾胃
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d4
+    span:
+    - body
+    - 14802
+    - 14865
+  label: 產後嘔吐屬腸胃燥澀氣逆
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d5
+    span:
+    - body
+    - 14865
+    - 14951
+  label: 產後嘔逆屬惡露不下
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d6
+    span:
+    - body
+    - 14951
+    - 15151
+  label: 產後嘔吐屬脾胃病分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d7
+    span:
+    - body
+    - 15151
+    - 15280
+  label: 產後呃逆屬脾虛聚冷胃中伏寒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d8
+    span:
+    - body
+    - 15280
+    - 15465
+  label: 產後呃逆分證用藥法
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d9
+    span:
+    - body
+    - 15465
+    - 15555
+  label: 產後氣喘屬敗血停凝上熏於肺
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d10
+    span:
+    - body
+    - 15555
+    - 15634
+  label: 產後發喘屬汙血感寒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d11
+    span:
+    - body
+    - 15634
+    - 15713
+  label: 產後氣喘屬孤陽絕陰
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ee033_jc_005-d6.d8d12
+    span:
+    - body
+    - 15713
+    - 15960
+  label: 產後發喘不可誤藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 14086
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 592
+  label: 浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d2
+    span:
+    - body
+    - 4
+    - 108
+  label: 產後浮腫屬敗血停積不可作水氣治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d3
+    span:
+    - body
+    - 108
+    - 220
+  label: 產後浮腫屬血與氣搏留滯經絡
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d4
+    span:
+    - body
+    - 220
+    - 347
+  label: 產後浮腫屬風邪搏氣
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d5
+    span:
+    - body
+    - 347
+    - 411
+  label: 產後浮腫屬體虛有濕熱
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d6
+    span:
+    - body
+    - 411
+    - 446
+  label: 產後浮腫屬虛大補氣血
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d2d7
+    span:
+    - body
+    - 446
+    - 592
+  label: 產後浮腫分證治法
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d3
+    span:
+    - body
+    - 592
+    - 2980
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d2
+    span:
+    - body
+    - 594
+    - 669
+  label: 產後外感風寒發熱不可作傷寒治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d3
+    span:
+    - body
+    - 669
+    - 749
+  label: 產後頭痛發熱不可作外傷感冒治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d4
+    span:
+    - body
+    - 749
+    - 1038
+  label: 產後諸發熱狀類傷寒不可發汗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d5
+    span:
+    - body
+    - 1038
+    - 1135
+  label: 產後傷食發熱宜下
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d6
+    span:
+    - body
+    - 1135
+    - 1194
+  label: 產後傷食發熱類傷寒
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d7
+    span:
+    - body
+    - 1194
+    - 1279
+  label: 產後傷食發熱不可作血虛治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d8
+    span:
+    - body
+    - 1279
+    - 1495
+  label: 產後傷食發熱分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d9
+    span:
+    - body
+    - 1495
+    - 1578
+  label: 產後發熱屬肝虛血燥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d10
+    span:
+    - body
+    - 1578
+    - 1687
+  label: 產後發熱屬陰虛生內熱
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d11
+    span:
+    - body
+    - 1687
+    - 1743
+  label: 產後發熱屬陰虛陽浮於外
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d12
+    span:
+    - body
+    - 1743
+    - 1837
+  label: 產後發熱屬血脫陽無所附
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d13
+    span:
+    - body
+    - 1837
+    - 1948
+  label: 產後陰虛發熱宜補氣
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d14
+    span:
+    - body
+    - 1948
+    - 1998
+  label: 產後發熱不可作火治誤用寒涼
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d15
+    span:
+    - body
+    - 1998
+    - 2228
+  label: 論丹溪治產後發熱用方之法
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d16
+    span:
+    - body
+    - 2228
+    - 2381
+  label: 產後乍寒乍熱屬敗血不散
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d17
+    span:
+    - body
+    - 2381
+    - 2484
+  label: 產後敗血不散寒熱為閉陰閉陽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d18
+    span:
+    - body
+    - 2484
+    - 2674
+  label: 產後敗血閉陰閉陽之辨
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d3d19
+    span:
+    - body
+    - 2674
+    - 2980
+  label: 產後陰陽不足寒熱用藥不同
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d4
+    span:
+    - body
+    - 2980
+    - 3593
+  label: 虛汗頭汗
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d4d2
+    span:
+    - body
+    - 2984
+    - 3096
+  label: 產後虛汗不止屬陰虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d4d3
+    span:
+    - body
+    - 3096
+    - 3194
+  label: 產後虛汗有亡陽之患
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d4d4
+    span:
+    - body
+    - 3194
+    - 3409
+  label: 產婦頭汗屬血虛孤陽上出
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d4d5
+    span:
+    - body
+    - 3409
+    - 3593
+  label: 產婦頭汗屬虛熱熏蒸
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d5
+    span:
+    - body
+    - 3593
+    - 6510
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d2
+    span:
+    - body
+    - 3595
+    - 3721
+  label: 產後中風屬於虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d3
+    span:
+    - body
+    - 3721
+    - 3824
+  label: 產後中風屬勞損臟腑氣虛邪入
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d4
+    span:
+    - body
+    - 3824
+    - 3917
+  label: 產後中風屬勞傷所致
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d5
+    span:
+    - body
+    - 3917
+    - 3993
+  label: 產後中風屬下血過多虛極生風
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d6
+    span:
+    - body
+    - 3993
+    - 4058
+  label: 產後中風宜大補不可作風治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d7
+    span:
+    - body
+    - 4058
+    - 4286
+  label: 產後中風當補元氣為主
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d8
+    span:
+    - body
+    - 4286
+    - 4328
+  label: 產後血虛中風病痙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d9
+    span:
+    - body
+    - 4328
+    - 4399
+  label: 產後血虛汗多過多遇風變痙
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d10
+    span:
+    - body
+    - 4399
+    - 4499
+  label: 產後痙屬亡血過多筋無所養
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d11
+    span:
+    - body
+    - 4499
+    - 4582
+  label: 產後病痙屬陰虛內熱生風
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d12
+    span:
+    - body
+    - 4582
+    - 4670
+  label: 產後成痙不可同傷寒例治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d13
+    span:
+    - body
+    - 4670
+    - 4741
+  label: 產後變症不可輕用發表
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d14
+    span:
+    - body
+    - 4741
+    - 4974
+  label: 用續命湯辨
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d15
+    span:
+    - body
+    - 4974
+    - 5047
+  label: 產後口噤屬血氣虛風乘三陽經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d16
+    span:
+    - body
+    - 5047
+    - 5109
+  label: 產後角弓反張屬體虛受風
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d17
+    span:
+    - body
+    - 5109
+    - 5197
+  label: 產後角弓反張屬虛象宜固氣血
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d18
+    span:
+    - body
+    - 5197
+    - 5362
+  label: 產後瘛瘲屬陰虛火熾筋無所養
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d19
+    span:
+    - body
+    - 5362
+    - 5445
+  label: 產後拘攣屬氣血不足
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d20
+    span:
+    - body
+    - 5445
+    - 5576
+  label: 產後拘攣屬肝經風熱血燥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d21
+    span:
+    - body
+    - 5576
+    - 5666
+  label: 產後不語屬敗血入心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d22
+    span:
+    - body
+    - 5666
+    - 5710
+  label: 產後不語屬胃濕熱痰迷心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d23
+    span:
+    - body
+    - 5710
+    - 5773
+  label: 產後不語屬熱血熱痰迷塞心竅
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d24
+    span:
+    - body
+    - 5773
+    - 6072
+  label: 產後不語分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d25
+    span:
+    - body
+    - 6072
+    - 6157
+  label: 產後驚悸屬心氣虛風邪搏心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d26
+    span:
+    - body
+    - 6157
+    - 6200
+  label: 產後驚悸屬於心血虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d27
+    span:
+    - body
+    - 6200
+    - 6266
+  label: 產後恍惚屬營衛不足風邪所乘
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d5d28
+    span:
+    - body
+    - 6266
+    - 6510
+  label: 產後恍惚不可作風治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d6
+    span:
+    - body
+    - 6510
+    - 7320
+  label: 發狂
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d2
+    span:
+    - body
+    - 6512
+    - 6574
+  label: 產後發狂屬敗血衝心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d3
+    span:
+    - body
+    - 6574
+    - 6625
+  label: 產後發狂屬肝虛火炎
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d4
+    span:
+    - body
+    - 6625
+    - 6711
+  label: 產後乍見鬼神屬敗血停心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d5
+    span:
+    - body
+    - 6711
+    - 6781
+  label: 產後乍見鬼神屬血虛邪淫
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d6
+    span:
+    - body
+    - 6781
+    - 6970
+  label: 產後乍見鬼神屬心脾血少
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d7
+    span:
+    - body
+    - 6970
+    - 7030
+  label: 產後妄言見邪不可作痰火論
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d6d8
+    span:
+    - body
+    - 7030
+    - 7320
+  label: 產後狂言譫語分五證治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d7
+    span:
+    - body
+    - 7320
+    - 8516
+  label: 虛煩口鼻衄咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d2
+    span:
+    - body
+    - 7327
+    - 7375
+  label: 產後虛煩屬余血奔心
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d3
+    span:
+    - body
+    - 7375
+    - 7428
+  label: 產後虛煩戒服竹葉石膏湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d4
+    span:
+    - body
+    - 7428
+    - 7476
+  label: 產後渴屬於血虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d5
+    span:
+    - body
+    - 7476
+    - 7723
+  label: 產後心煩血渴分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d6
+    span:
+    - body
+    - 7723
+    - 7837
+  label: 產後口鼻黑衄屬胃絕肺敗
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d7
+    span:
+    - body
+    - 7837
+    - 8004
+  label: 產後鼻衄為氣脫血死證
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d8
+    span:
+    - body
+    - 8004
+    - 8057
+  label: 產後咳嗽屬肺金感邪
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d9
+    span:
+    - body
+    - 8057
+    - 8113
+  label: 產後咳嗽屬食麵壅納
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d10
+    span:
+    - body
+    - 8113
+    - 8235
+  label: 產後咳嗽屬惡露上攻瘀血入肺
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d11
+    span:
+    - body
+    - 8235
+    - 8335
+  label: 產後咳嗽屬胃氣不足
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d7d12
+    span:
+    - body
+    - 8335
+    - 8516
+  label: 產後咳嗽分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d8
+    span:
+    - body
+    - 8516
+    - 9677
+  label: 瘧疾痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d2
+    span:
+    - body
+    - 8520
+    - 8602
+  label: 產後寒熱屬敗血不可作瘧治
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d3
+    span:
+    - body
+    - 8602
+    - 8732
+  label: 產後瘧疾屬陰陽兩虛不可用柴胡湯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d4
+    span:
+    - body
+    - 8732
+    - 8993
+  label: 產後瘧疾屬氣血虛宜補胃氣為主
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d5
+    span:
+    - body
+    - 8993
+    - 9161
+  label: 產後痢疾屬內外諸傷
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d6
+    span:
+    - body
+    - 9161
+    - 9267
+  label: 產後下痢屬風冷乘虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d7
+    span:
+    - body
+    - 9267
+    - 9405
+  label: 產後痢疾作渴屬津液內竭
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d8
+    span:
+    - body
+    - 9405
+    - 9512
+  label: 產後痢分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d8d9
+    span:
+    - body
+    - 9512
+    - 9677
+  label: 產後滯下不可用下藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d9
+    span:
+    - body
+    - 9677
+    - 10537
+  label: 蓐勞血崩
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d2
+    span:
+    - body
+    - 9681
+    - 9814
+  label: 產後蓐勞屬風冷搏於氣血
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d3
+    span:
+    - body
+    - 9814
+    - 9874
+  label: 產後蓐勞屬憂勞思慮所致
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d4
+    span:
+    - body
+    - 9874
+    - 9956
+  label: 產後蓐勞屬虧損血氣所致
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d5
+    span:
+    - body
+    - 9956
+    - 10093
+  label: 產後蓐勞當補脾胃養正氣為主
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d6
+    span:
+    - body
+    - 10093
+    - 10195
+  label: 產後血崩屬勞役驚怒所致
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d7
+    span:
+    - body
+    - 10195
+    - 10244
+  label: 產後血崩屬酸鹹不節以傷營衛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d8
+    span:
+    - body
+    - 10244
+    - 10334
+  label: 產後血崩屬臟氣不平
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d9d9
+    span:
+    - body
+    - 10334
+    - 10537
+  label: 產後血崩分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d10
+    span:
+    - body
+    - 10537
+    - 12541
+  label: 大便秘小便秘
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d2
+    span:
+    - body
+    - 10543
+    - 10583
+  label: 產後便秘屬亡津液胃燥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d3
+    span:
+    - body
+    - 10583
+    - 10654
+  label: 產後便難屬內亡津液
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d4
+    span:
+    - body
+    - 10654
+    - 10779
+  label: 產後便秘屬血虛火燥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d5
+    span:
+    - body
+    - 10779
+    - 10875
+  label: 產後便秘屬津液不足不可服寒藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d6
+    span:
+    - body
+    - 10875
+    - 10960
+  label: 產後秘結屬血少腸燥不可用峻利藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d7
+    span:
+    - body
+    - 10960
+    - 11094
+  label: 產後便秘戒輕用大黃
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d8
+    span:
+    - body
+    - 11094
+    - 11176
+  label: 產後小便不通屬內積冷氣
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d9
+    span:
+    - body
+    - 11176
+    - 11215
+  label: 產後淋屬熱客胞中
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d10
+    span:
+    - body
+    - 11215
+    - 11256
+  label: 產後淋屬熱邪搏血滲入胞中
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d11
+    span:
+    - body
+    - 11256
+    - 11437
+  label: 產後淋治法宜量虛實
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d12
+    span:
+    - body
+    - 11437
+    - 11507
+  label: 產後二便不通屬津液燥竭
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d13
+    span:
+    - body
+    - 11507
+    - 11530
+  label: 產後小便數屬氣虛不制
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d14
+    span:
+    - body
+    - 11530
+    - 11600
+  label: 產後小便不禁屬脾腎虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d15
+    span:
+    - body
+    - 11600
+    - 11629
+  label: 產後小便不禁屬產傷膀胱
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d16
+    span:
+    - body
+    - 11629
+    - 11705
+  label: 產後小便淋瀝屬損破尿脬
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d17
+    span:
+    - body
+    - 11705
+    - 11897
+  label: 產後小便淋瀝分證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d18
+    span:
+    - body
+    - 11897
+    - 11972
+  label: 產後小便出血屬熱乘胞內
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d19
+    span:
+    - body
+    - 11972
+    - 12346
+  label: 產後大便出血分諸證用藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d10d20
+    span:
+    - body
+    - 12346
+    - 12541
+  label: 產後發癰疽不可用治毒藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7d11
+    span:
+    - body
+    - 12541
+    - 14086
+  label: 月水乳病玉門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d2
+    span:
+    - body
+    - 12547
+    - 12621
+  label: 產後月水不調屬風邪冷熱客經絡
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d3
+    span:
+    - body
+    - 12621
+    - 12700
+  label: 產後月水不調屬風冷傷經
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d4
+    span:
+    - body
+    - 12700
+    - 13013
+  label: 產後月水不通不必藥
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d5
+    span:
+    - body
+    - 13013
+    - 13183
+  label: 產後乳汁不行屬亡津液
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d6
+    span:
+    - body
+    - 13183
+    - 13254
+  label: 產後乳汁不行有二
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d7
+    span:
+    - body
+    - 13254
+    - 13365
+  label: 產婦乳汁不行宜壯脾胃以滋化源
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d8
+    span:
+    - body
+    - 13365
+    - 13430
+  label: 產後乳自出屬胃氣虛
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d9
+    span:
+    - body
+    - 13430
+    - 13519
+  label: 乳房腫脹用麥芽
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d10
+    span:
+    - body
+    - 13519
+    - 13767
+  label: 產後乳癰屬邪熱攻陽明血搏氣滯
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d11
+    span:
+    - body
+    - 13767
+    - 13833
+  label: 產後陰脫屬產勞太過所致
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d12
+    span:
+    - body
+    - 13833
+    - 13916
+  label: 產後玉門不閉屬氣血不能收攝
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ee033_jc_006-d7.d11d13
+    span:
+    - body
+    - 13916
+    - 14086
+  label: 產門不閉腫痛分證用藥
+  type: section
+  level: 3
+hash: sha256:b79970b986bb652db18c6ee6d637c68493595a65d5093e39afcf7b396948f37b
